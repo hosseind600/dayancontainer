@@ -5,4 +5,4 @@ The idea is to load app components and styles from json and create them on compo
 
 the react part is done
 
-im working on a dragble UI for managing Views
+im working on a draggable UI for managing Views
